@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kazuate {
+public class Kazuate {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
